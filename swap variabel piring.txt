@@ -1,0 +1,13 @@
+Step 1 Jika variabel a ingin ditukar dengan b maka buatlah variabel kosong c
+Step 2 Masukkan value a ke c sehingga variabel a kosong
+Step 3 Masukkan value b ke a sehingga variabel b kosong
+Step 4 Masukkan value c ke b sehingga variabel c kosong
+
+fungsi menukar dua variabel manggis dan pisang:
+define swap(p1, p2)
+p3 = p1
+p1 = p2
+p2 = p3
+note: p  = piring
+	p1 = isinya manggis
+	p2 = isinya pisang

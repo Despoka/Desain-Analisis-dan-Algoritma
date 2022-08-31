@@ -1,0 +1,15 @@
+Algoritma:
+Step 1 Mendeklarasikan jari jari(r), tinggi(t), Volume(v), pi
+Step 2 Masukan r = 3, tinggi = 5
+Step 3 Menghitung luas = pi*r^2*t
+Step 4 Menampilkan volume
+
+Pseudocode:
+deklarasi
+var v, r, t, pi
+pi ← 3.14
+r ← 3
+r ← r**
+t ← 5
+volume = pi*r*t
+write(v)
