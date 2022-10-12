@@ -1,0 +1,15 @@
+ALGORITMA e:
+Diberikan dua bilangan  bulat positif a dan b, selanjutnya:
+Step 1 jika b = 0, kembalikan nilai a sebagai hasil dan stop. Jika tidak, lanjut ke step 2.
+Step 2 Masukkan nilai r dengan fpb dari a dan b
+Step 3 Kali nilai a dengan b, lalu bagi dengan r, kembali ke step 1.
+
+Pseudocode:
+While b ≠ 0 do
+ r ← a mod b
+  a ← b
+  b ← r
+  c ← b
+  d ← a . b
+  d = d/c
+return d
