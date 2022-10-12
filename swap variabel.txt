@@ -1,5 +1,0 @@
-Fungsi untuk menukar dua variabel x dan y:
-define swap(x,y)
-buffer = x
-x = y 
-y = buffer
